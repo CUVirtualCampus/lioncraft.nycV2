@@ -10357,3 +10357,7 @@ iframe{
 #fIcon:hover{
   filter: grayscale(0%);
 }
+
+.cuDarkBlue{
+  color: #022169;
+}
