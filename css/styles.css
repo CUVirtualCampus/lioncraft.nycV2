@@ -110,7 +110,7 @@ address {
 }
 
 .gray{
-  color: gray
+  color:#D3D3D3
 }
 
 .red{
@@ -118,7 +118,16 @@ address {
 }
 
 .green{
-  color: green
+  color: #51bf1a
+}
+.columbiaBlue{
+  color: #B9D9EB
+}
+.neon{
+  color: #39ff14
+}
+.neon-pink{
+  color: #ff6ec7 
 }
 
 .yellow{
