@@ -10337,8 +10337,13 @@ color: #022169;
 
 .greenText{
   color:#29d462;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 
+}
+
+.blueText{
+  color:#6cace4  ;
+  font-size: 1.2rem;
 }
 
 iframe{
